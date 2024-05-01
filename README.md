@@ -10,11 +10,10 @@
   </h1>
 </div>
 
----
 
 ### :man_technologist: About Me :
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">I am a Backend Developer  from India.
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">: I am a Backend Developer  from India.
 
 - 🔭: I’m working as a Software Developer and contributing to backend for building web applications.
 
@@ -23,14 +22,6 @@
 - 🌱: Exploring Machine learning, LLM's, Smart AI's as well.
 
 - 📚: In my free time, I read about new technology trends.
-
----
-
-### Connect With Me :
-
-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/sreyaspatil5)
-
-- 📧: sreyaspatil5@gmail.com
 
 ---
 
