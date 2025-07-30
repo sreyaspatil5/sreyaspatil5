@@ -46,7 +46,6 @@ I'm **Sreyas Patil** — a DevOps & Backend Developer from India 🇮🇳
 
 ## 📊 GitHub Stats
 ![Sreyas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sreyaspatil5&theme=tokyonight&show_icons=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sreyaspatil5&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sreyaspatil5&layout=compact&theme=tokyonight)
 
 ---
