@@ -35,7 +35,7 @@ I'm **Sreyas Patil** — a DevOps & Backend Developer from India 🇮🇳
 ![RESTful API](https://img.shields.io/badge/REST-25A162?style=flat&logo=express&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
 
-### 🌐 Frontend & Monitoring
+### 🌐 Frontend & Designing
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
